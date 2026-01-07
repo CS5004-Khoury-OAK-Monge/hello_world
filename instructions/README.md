@@ -1,6 +1,6 @@
 # Aloha World Homework Instructions
 
-Aloha! This assignment is meant to give you an introduction to the java programming language and object oriented design. The assignment is to debug the provided java application, and then add a new java object from scratch giving you both the experience of a working java program, and writing a file from scratch. Overall, the goal is for you to learn the homework submission process, and get a feel for the java programming language.
+Aloha! This assignment is meant to give you an introduction to the java programming language and object-oriented design. The assignment is to debug the provided java application, and then add a new java object from scratch giving you both the experience of a working java program, and writing a file from scratch. Overall, the goal is for you to learn the homework submission process, and get a feel for the java programming language.
 
 ## Table of Contents
 - [Aloha World Homework Instructions](#aloha-world-homework-instructions)
@@ -52,7 +52,7 @@ An observant reader will notice that many of the learning objectives have very l
 
 ## Assumptions
 
-This homework assumes you have installed your favorite IDE (IntelliJ or VS Code) and installed the recommended plugins or extension as listed in the [5004 Resources](https://github.com/CS5004-khoury-lionelle/Resources) repository. Additionally, you will need to make sure gradle and java are installed. You can confirm they are installed by going to the command line and typing `java -version` and `gradle -version`. If you get a version number, you are good to go. If you get an error, you will need to install them or check your environment variables.
+This homework assumes you have installed your favorite IDE (IntelliJ or VS Code) and installed the recommended plugins or extension as listed in the [5004 Resources](https://github.com/CS5004-Khoury-OAK-Monge/Resources) repository. Additionally, you will need to make sure gradle and java are installed. You can confirm they are installed by going to the command line and typing `java -version` and `gradle -version`. If you get a version number, you are good to go. If you get an error, you will need to install them or check your environment variables.
 
 You should have also clicked on the link in the Canvas assignment shell to generate your github repo from the github classroom. As a reminder, you need a Github.com account! Don't use the Khoury Github Enterprise account, as it will not work with github classroom. 
 
@@ -339,14 +339,14 @@ Currently the autograder is limited in how it can test. As such, when it comes a
 
 
 > [!TIP]
-> Don't forget to look at the [Resources](https://github.com/CS5004-khoury-lionelle/Resources) repo for links to help you out with markdown!
+> Don't forget to look at the [Resources](https://github.com/cs5004-khoury-oak-monge/Resources) repo for links to help you out with markdown!
 
 
 Last, but not least - you got this!
 
 <!-- links -->
-[javadoc]: https://cs5004-khoury-lionelle.github.io/hello_world/student/package-summary.html 
+[javadoc]: https://cs5004-khoury-oak-monge.github.io/hello_world/student/package-summary.html 
 [mermaid markdown]: https://mermaid.js.org/syntax/classDiagram.html
-[greeting javadoc]: https://cs5004-khoury-lionelle.github.io/hello_world/student/Greeting.html
+[greeting javadoc]: https://cs5004-khoury-oak-monge.github.io/hello_world/student/Greeting.html
 [GreetingTest.java]: ../src/test/java/GreetingTest.java
 [Conventional Commits]: https://www.conventionalcommits.org/en/v1.0.0/
